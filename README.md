@@ -13,6 +13,13 @@ Estou em constante aprimoramento através de projetos próprios, estudos acadêm
       alt="LinkedIn"
     />
   </a>
+</p> 
+<a href="https://gusttac.github.io/gustavofernandes1/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge&logo=internet-explorer&logoColor=white" 
+      alt="Portfólio"
+    />
+  </a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
