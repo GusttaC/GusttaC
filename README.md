@@ -13,7 +13,7 @@ Sou um estudante de Engenharia de Software com paixão por desenvolvimento, foca
 - 🎓 **Formação Acadêmica:**
   - Engenharia de Software (1° semestre) - Uniasselvi | Conclusão: 2030
   - Análise e Desenvolvimento de Sistemas (5° semestre) - Projeção | Conclusão: 2026
-- 🌐 **Portfólio:** [PORTFÓLIO](https://gusttac.github.io/Portifolio)💼
+- 🌐 **Portfólio:** [PORTFÓLIO](https://gusttac.github.io/Portfolio/)💼
 
 ---
 
